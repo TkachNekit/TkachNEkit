@@ -14,8 +14,9 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=TkachNekit&style=flat-square&color=blue" alt=""/>
   <h1>
-    What's up
+    What's up. 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    My name is Nikita.
   </h1>
 </div>
 <div align="center">
@@ -25,9 +26,8 @@
 ---
 
 # :man_technologist: About Me:
-My name is Nikita and I'm Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :man_student: I'm studying at [Ural Federal University](https://en.wikipedia.org/wiki/Ural_Federal_University).
-- :computer: In two years I will have major in Computer Science and Math.
+I'm beginner Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :man_student: I'm studying at [Ural Federal University](https://en.wikipedia.org/wiki/Ural_Federal_University) for Computer Science and Math.
 - :zap: In my free time, I work on my PET projects which you can look on my GitHub or [GitLab](https://gitlab.com/TkachNekit).
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat)](https://t.me/tkach_nikita) [![Gmail Badge](https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=red&style=flat)](https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSDXXnRtGXMlLJWxVnDJgczlXVdbKbvQXGdjwpVZKFwmmcvhwZcQFRtXFjqDgsKJgkDCQXGh)
 
@@ -50,5 +50,3 @@ My name is Nikita and I'm Software Developer <img src="https://media.giphy.com/m
 
 ### :fire: My Stats: 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TkachNekit&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TkachNekit&show_icons=true)

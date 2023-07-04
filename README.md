@@ -19,21 +19,16 @@
     My name is Nikita.
   </h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
 
 # :man_technologist: About Me:
 I'm beginner Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :man_student: I'm studying at [Ural Federal University](https://en.wikipedia.org/wiki/Ural_Federal_University) for Computer Science and Math.
+- :man_student: I'm studying **3 year** at [Ural Federal University](https://en.wikipedia.org/wiki/Ural_Federal_University) for Computer Science and Math.
 - :zap: In my free time, I work on my PET projects which you can look on my GitHub or [GitLab](https://gitlab.com/TkachNekit).
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat)](https://t.me/tkach_nikita) [![Gmail Badge](https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=red&style=flat)](https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSDXXnRtGXMlLJWxVnDJgczlXVdbKbvQXGdjwpVZKFwmmcvhwZcQFRtXFjqDgsKJgkDCQXGh)
 
 ---
 
-### :hammer_and_wrench: Languages and tools :
+### :hammer_and_wrench: Languages And Tools That I Use:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
@@ -44,6 +39,7 @@ I'm beginner Software Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 </div>
 
 ---

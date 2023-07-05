@@ -22,7 +22,7 @@
 
 # :man_technologist: About Me:
 I'm beginner Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :man_student: I'm studying **3 year** at [Ural Federal University](https://en.wikipedia.org/wiki/Ural_Federal_University) for Computer Science and Math.
+- :man_student: I am at **3 year** of studying at [Ural Federal University](https://en.wikipedia.org/wiki/Ural_Federal_University) for Computer Science and Math.
 - :zap: In my free time, I work on my PET projects which you can look on my GitHub or [GitLab](https://gitlab.com/TkachNekit).
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat)](https://t.me/tkach_nikita) [![Gmail Badge](https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=red&style=flat)](https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSDXXnRtGXMlLJWxVnDJgczlXVdbKbvQXGdjwpVZKFwmmcvhwZcQFRtXFjqDgsKJgkDCQXGh)
 

@@ -46,4 +46,4 @@ I'm beginner Software Developer <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 ### :fire: My Stats: 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TkachNekit&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TkachNekit&theme=dark&background=000000)](https://git.io/streak-stats) ![Leetcode Stats](https://leetcard.jacoblin.cool/Tkach_Nikita)
